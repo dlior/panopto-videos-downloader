@@ -49,7 +49,5 @@ url = "http://panoptotech.cloud.panopto.eu/Panopto/Podcast/Podcast.ashx?courseid
 ```
 ![](Assets/progress_bar.png)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
