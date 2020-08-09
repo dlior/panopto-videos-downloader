@@ -22,9 +22,9 @@ def download_url(video_title, video_url):
             if chunk:
                 video.write(chunk)
 
-
-if __name__ == "__main__":
-
+                
+def main():
+    
     # Creating GET request
     url = "RSS URL Here"
     r = requests.get(url)
@@ -47,3 +47,7 @@ if __name__ == "__main__":
     # Downloading videos concurrently using theards for speed gains
     with concurrent.futures.ThreadPoolExecutor() as executor:
         executor.map(download_url, titles, urls)
+
+        
+if __name__ == "__main__":
+    main()
