@@ -4,12 +4,6 @@ Panopto Vidoes Downloader is a Python script for downloading Technion course vid
 
 # Getting Started
 
-## Prerequisites
-
-[Python 3.7.x](https://www.python.org/downloads/) or newer version should be installed
-
-[Git](https://git-scm.com/downloads) should be installed
-
 ## Installation
 
 1. Clone the repo
@@ -48,6 +42,11 @@ RSS URL for Technion course 094224 - Data Structures and Algorithms (Tutorials)
 url = "http://panoptotech.cloud.panopto.eu/Panopto/Podcast/Podcast.ashx?courseid=2b22b19c-f958-4153-9765-a97d00e07ad5&type=mp4"
 ```
 ![](Assets/progress_bar.png)
+
+
+## Disclaimer
+
+The tool above is for research purpose only not for human consumption, I am not responsible for any use of this program, please read [Panopto Privacy Policy](https://www.panopto.com/privacy/) before using this.
 
 
 
