@@ -6,14 +6,10 @@ Panopto Vidoes Downloader is a Python script for downloading Technion course vid
 
 ## Installation
 
-1. Clone the repo
+Clone the repo
 ```bash
 $ git clone https://github.com/dlior/panopto-videos-downloader.git
 $ cd panopto-videos-downloader
-```
-
-2. Use the package manager [pip]() to install required packages
-```bash
 $ pip install -r requirements.txt
 ```
 
@@ -31,7 +27,7 @@ url = "RSS URL Here"
 
 3. Open terminal and run the script:
 ```bash
-$ python panopto_videos_downloader.py
+$ python main.py
 ```
 
 ## Example
