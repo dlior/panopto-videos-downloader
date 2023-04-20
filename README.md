@@ -31,12 +31,6 @@ $ python main.py
 ```
 
 ## Example
-
-RSS URL for Technion course 094224 - Data Structures and Algorithms (Tutorials)
-
-```python
-url = "http://panoptotech.cloud.panopto.eu/Panopto/Podcast/Podcast.ashx?courseid=2b22b19c-f958-4153-9765-a97d00e07ad5&type=mp4"
-```
 ![](Assets/progress_bar.png)
 
 
