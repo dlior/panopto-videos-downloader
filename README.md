@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 2. Copy the URL and paste it in the url variable in the script then save file
 
 ```python
-url = "RSS URL Here"
+url = "https://{RSS URL Here}"
 ```
 
 3. Open terminal and run the script:
@@ -36,7 +36,7 @@ $ python main.py
 
 ## Disclaimer
 
-The tool above is for research purpose only not for human consumption, I am not responsible for any use of this program, please read [Panopto Privacy Policy](https://www.panopto.com/privacy/) before using this.
+The tool above is for research purpose only not for human consumption, I am not responsible for any use of this program, please read [Panopto Terms of Service](https://www.panopto.com/terms-of-service/) before using this.
 
 
 
